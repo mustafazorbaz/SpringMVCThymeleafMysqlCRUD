@@ -1,2 +1,8 @@
 # SpringMVCThymeleafMysqlCRUD
-![alt text](http://resimdiyari.com/action.php?id=9266&part=e&download)
+Giriş
+![alt text](https://github.com/mustafazorbaz/SpringMVCThymeleafMysqlCRUD/blob/master/1.PNG?raw=true)
+Home
+![alt text](https://github.com/mustafazorbaz/SpringMVCThymeleafMysqlCRUD/blob/master/2.PNG?raw=true)
+Ekleme 
+![alt text](https://github.com/mustafazorbaz/SpringMVCThymeleafMysqlCRUD/blob/master/3.PNG?raw=true)
+
